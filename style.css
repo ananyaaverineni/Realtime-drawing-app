@@ -1,0 +1,23 @@
+.heading{
+font-size: 25px;
+
+box-shadow:5px 5px 30px aqua;
+margin:0px;
+}
+.note{
+font-size:16px;
+color:black;    
+}
+.footer{
+background-color:aqua;  
+width:100%;
+text-align: center;
+bottom:0;
+position:fixed;
+line-height:3;
+}
+canvas{
+background-color: grey;    
+border:5px solid white;
+border-radius:20px;
+}
